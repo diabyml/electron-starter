@@ -3,9 +3,9 @@ Demo of using SQLite with Drizzle ORM in Electron.
 ## Usage
 
 ```bash
-pnpm i
+npm i
 
-pnpm drizzle-kit generate:sqlite
+npx drizzle-kit generate:sqlite
 
 npm run dev
 ```
